@@ -61,9 +61,14 @@ Turnos disponíveis:
 
 ---
 
-## 📥 Inscrições
+## 📥 Saiba como se inscrever
+Entre em contato conosco para informações
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21972607521)
 
-Para se inscrever, acesse o [Portal Firjan SENAI](https://firjansenai.com.br) e procure o curso desejado pelo código ou nome.
+Diretamente na escola
+Firjan SENAI Maracanã
+📍 Rua São Francisco Xavier, nº 417 - Maracanã, Rio de Janeiro - RJ
+📬 CEP: 20550-015
 
 ---
 
