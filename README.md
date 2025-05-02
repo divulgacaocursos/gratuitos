@@ -51,8 +51,8 @@ Este repositório apresenta a programação completa dos cursos gratuitos oferec
 ## 📅 Formatos e Turnos
 
 - **Presencial**: Aulas presenciais na unidade SENAI Maracanã
-- **EAD 50%**: 50% da carga online com encontros ao vivo
-- **EAD 100%**: 100% da carga online (ambiente virtual)
+- **EAD 50%**: 50% da carga horária online ao vivo (ambiente virtual) e 50% de autoestudo direcionado
+- **EAD 100%**: 100% da carga online ao vivo (ambiente virtual)
 
 Turnos disponíveis:
 - **Manhã**: 08h às 12h
@@ -61,7 +61,7 @@ Turnos disponíveis:
 
 ---
 
-## 📄 Arquivo completo
+## 📄 Programação completa
 
 A programação completa está disponível neste repositório no arquivo [`PDF-AT-QUALI2025.2.pdf`](./PDF-AT-QUALI2025.2.pdf).
 
