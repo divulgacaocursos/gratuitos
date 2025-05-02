@@ -71,9 +71,9 @@ A programação completa está disponível neste repositório no arquivo [`PDF-A
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21972607521)
 
-- Endereço
+**Endereço**
 Firjan SENAI Maracanã
-📍 Rua São Francisco Xavier, nº 417 - Maracanã, Rio de Janeiro - RJ
+📍Rua São Francisco Xavier, nº 417 - Maracanã, Rio de Janeiro - RJ
 📬 CEP: 20550-015
 
 ---
