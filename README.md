@@ -44,7 +44,7 @@ Este repositório apresenta a programação completa dos cursos gratuitos oferec
 | Web Designer UI e UX                | Gráfica e Mídias Digitais            | EAD 100%                   | Noite    | 11/08/2025 | 12/12/2025 | 25     |
 | Web Designer UI e UX                | Gráfica e Mídias Digitais            | EAD 100%                   | Tarde    | 11/08/2025 | 12/12/2025 | 25     |
 
-> 📝 **Pré-requisito geral**: Idade mínima de 16 anos e escolaridade conforme descrita para cada curso. Consulte a tabela completa no arquivo `programacao-cursos-qualificacao-2025.2.xlsx`.
+> 📝 **Pré-requisito geral**: Idade mínima de 16 anos e escolaridade conforme descrita para cada curso.
 
 ---
 
