@@ -69,7 +69,7 @@ A programação completa está disponível neste repositório no arquivo [`PDF-A
 
 ## 📌 Para mais informações, entre em contato com a secretaria da unidade SENAI Maracanã
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521972607521)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521972607521?phone=5521972607521&text='Tenho interesse em estudar na Firjan Senai Maracanã')
 
 **Endereço**
 Firjan SENAI Maracanã
