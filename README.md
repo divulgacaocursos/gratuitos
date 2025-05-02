@@ -61,25 +61,21 @@ Turnos disponíveis:
 
 ---
 
-## 📥 Saiba como se inscrever
-Entre em contato conosco para informações
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21972607521)
-
-Diretamente na escola
-Firjan SENAI Maracanã
-📍 Rua São Francisco Xavier, nº 417 - Maracanã, Rio de Janeiro - RJ
-📬 CEP: 20550-015
-
----
-
 ## 📄 Arquivo completo
 
-A programação completa está disponível neste repositório no arquivo [`PDF-AT-QUALI2025.2.pdf`](./PDF-AT-QUALI2025.2.pdf) e na imagem `704caa06-8fc5-49af-996d-23506e7cb845.png`.
+A programação completa está disponível neste repositório no arquivo [`PDF-AT-QUALI2025.2.pdf`](./PDF-AT-QUALI2025.2.pdf).
 
 ---
 
 ## 📌 Contato
 
 Para mais informações, entre em contato com a secretaria da unidade SENAI Maracanã.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21972607521)
+
+Endereço
+Firjan SENAI Maracanã
+📍 Rua São Francisco Xavier, nº 417 - Maracanã, Rio de Janeiro - RJ
+📬 CEP: 20550-015
 
 ---
