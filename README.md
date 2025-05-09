@@ -16,8 +16,8 @@ Este repositório apresenta a programação completa dos cursos gratuitos oferec
 
 | Curso                                | Área Tecnológica                     | Formato                    | Turno    | Início     | Fim        | Vagas |
 |-------------------------------------|--------------------------------------|----------------------------|----------|------------|------------|--------|
-| Animador Digital 2D - Cut out       | Audiovisual e Animação Digital       | Presencial                 | Noite    | 05/05/2025 | 18/07/2025 | 25     |
-| Assistente de Operações em Logística| Logística                            | EAD 100%                   | Manhã    | 05/05/2025 | 18/07/2025 | 25     |
+| Animador Digital 2D - Cut out       | Audiovisual e Animação Digital       | Presencial                 | Noite    | 19/05/2025 | 18/07/2025 | 25     |
+| Assistente de Operações em Logística| Logística                            | EAD 100%                   | Manhã    | 19/05/2025 | 18/07/2025 | 25     |
 | Administrador de Banco de Dados     | TI - Software                        | EAD 50%                    | Manhã    | 16/06/2025 | 12/09/2025 | 25     |
 | Administrador de Banco de Dados     | TI - Software                        | EAD 50%                    | Noite    | 16/06/2025 | 12/09/2025 | 25     |
 | Designer Gráfico Editorial          | Gráfica e Mídias Digitais            | Presencial                 | Noite    | 16/06/2025 | 12/09/2025 | 25     |
